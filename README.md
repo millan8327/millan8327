@@ -1,4 +1,4 @@
-![logo] <img src="https://github.com/millan8327/millan8327/blob/main/MR%20MILAN%20KR%20JANA.pdf">
+![logo] <img src="https://github.com/millan8327/millan8327/commit/e144495e20e3bda8e9125e81b1d574fe04bf2028">
 <h1 align="center">Hi 👋, I'm MILAN KUMAR JANA</h1>
 <h3 align="center">An aspiring web designer from India with a love for simplicity and usability.</h3>
 <img align="right" alt="coding" width="400" src=https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif>
