@@ -6,7 +6,8 @@
 
 - ⚡ Fun fact *I AM FUNNY*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+PH:8327338725</h3>
 <p align="left">
 </p>
 
